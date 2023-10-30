@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\rtgrter\Desktop\C code\2023.10.29.01\2023.10.29.01\main.c(163,5): warning C4013: “system”未定义；假设外部返回 int
+C:\Users\rtgrter\Desktop\C code\2023.10.29.01\2023.10.29.01\main.c(167,14): warning C4013: “strcmp”未定义；假设外部返回 int
+  2023.10.29.01.vcxproj -> C:\Users\rtgrter\Desktop\C code\2023.10.29.01\Debug\2023.10.29.01.exe
